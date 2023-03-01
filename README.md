@@ -6,8 +6,6 @@ Detect damaged car parts using instance segmentation, mask r-cnn, and the Detect
 Using the kaggle dataset by LPLENKA, there are 59 images for training, 11 for validation, and 8 images for testing
 
 
-## Screenshots
-
 ![Car Damage Detection Mask RCNN Detectron2](./img/output.png?raw=true "Car Damage Detection Mask RCNN Detectron2")
 
 
