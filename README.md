@@ -12,7 +12,7 @@ Using the kaggle dataset by LPLENKA, there are 59 images for training, 11 for va
 ## How to Run
 
 - Kaggle: Go to [COCO Car Damage Dataset by LPLENKA](https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset), create code with that dataset and import the kaggle notebook.
-- Google Collab: [Create your Kaggle API Token](https://www.kaggle.com/general/74235), upload this notebook to google collab, and dont forget to upload your API Token in the notebook.
+- Google Colab: [Create your Kaggle API Token](https://www.kaggle.com/general/74235), upload this notebook to google colab, and dont forget to upload your API Token in the notebook.
 ## About Detectron2
 
 Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. It is the successor of Detectron and maskrcnn-benchmark. It supports a number of computer vision research projects and production applications in Facebook.
